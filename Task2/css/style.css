@@ -1,0 +1,155 @@
+.marginx {
+  margin-left: 100px;
+}
+
+.navbar {
+  position: relative;
+}
+
+.navbar .rightside {
+  position: absolute;
+  right: 0;
+  padding-right: 200px;
+}
+
+.navbar .container-fluid #navbarNav ul li a:hover {
+  color: white !important;
+}
+
+#header {
+  background-color: black;
+  padding: 48px 0;
+}
+
+#header .text {
+  width: 90%;
+}
+
+.changecontainer {
+  margin: 0px 291px;
+}
+
+.container {
+  padding-top: 3rem !important;
+  padding-bottom: 3rem !important;
+}
+
+.container .row .col-8 .row .col-6 {
+  margin: 25px 0px;
+}
+
+.container .row .col-8 .row .col-6 .icon {
+  width: 48px;
+  height: 48px;
+}
+
+.container .row .col-8 .row .col-6 .icon i {
+  font-size: 35px;
+  color: blue;
+}
+
+#sectiontwo {
+  background-color: gray;
+}
+
+#sectiontwo .container .row .col-7 .text-center .logotext img {
+  border-radius: 50% !important;
+}
+
+#sectiontwo .container .row .col-7 .text-center .logotext .smalltext {
+  font-size: 15px;
+  padding-left: 15px;
+}
+
+#sectiontwo .container .row .col-7 .text-center .logotext .smalltext .spancolor {
+  color: blue;
+}
+
+.sectiontwocontain {
+  margin: 48px 292px;
+}
+
+#sectionthree .container .row .col-12 {
+  margin-top: 25px;
+}
+
+#sectionthree .container .row .col-12 .row .col-4 .card .card-body .a-body {
+  border: 1px solid blue;
+  width: 60px;
+  height: 30px;
+  background-color: blue;
+  text-align: center;
+  margin: 15px 0px;
+}
+
+#sectionthree .container .row .col-12 .row .col-4 .card .card-body .a-body a {
+  text-decoration: none;
+  color: white;
+}
+
+#sectionthree .container .row .col-12 .row .col-4 .card .cardfooter .contentplace .icon {
+  border-radius: 50%;
+}
+
+#sectionthree .container .row .col-12 .row .col-4 .card .cardfooter .contentplace .icon img {
+  margin-left: 10px;
+}
+
+#sectionthree .container .row .col-12 .asside {
+  margin-top: 25px;
+  border: 1px solid blue;
+  background-color: blue;
+  border-radius: 5px;
+  padding: 50px;
+  position: relative;
+}
+
+#sectionthree .container .row .col-12 .asside .formbox {
+  margin-right: 45px;
+  margin-top: 15px;
+  position: absolute;
+  right: 0;
+}
+
+#sectionthree .container .row .col-12 .asside .formbox .form-inline .form-group input {
+  width: 300px;
+  height: 50px;
+}
+
+#sectionthree .container .row .col-12 .asside .formbox .form-inline .form-group button {
+  width: 90px;
+}
+
+#sectionthree .container .row .col-12 .asside .formbox .form-inline .text {
+  color: rgba(255, 255, 255, 0.5) !important;
+}
+
+#footer {
+  background-color: black !important;
+}
+
+#footer .container {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+#footer .container .copyright {
+  color: white;
+  font-size: 17px;
+}
+
+#footer .container .privacy {
+  position: absolute;
+  right: 0;
+  color: white;
+  margin-right: 10px;
+}
+
+#footer .container .privacy a {
+  color: white;
+  font-size: 17px;
+  margin-right: 10px;
+}
+/*# sourceMappingURL=style.css.map */
